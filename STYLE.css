@@ -57,7 +57,7 @@ form button{
 
 .todo-list {
   min-width: 28%;
-  /* list-style: none; */
+  list-style: none;
 }
 
 .todo,.button_list {
@@ -69,14 +69,14 @@ form button{
   justify-content: space-between; 
   align-items: center;
   transition: all 0.5s ease;
-  border-radius: 30%;
+  border-radius: 5px;
 }
 
 .button_list{
   color: #85b9db;
   background: #f7fffe;
   margin:2px auto;
-  border-radius: 50%;
+  border-radius: 20%;
   box-shadow: none;
 }
 
@@ -99,7 +99,7 @@ form button{
   font-size: 1rem;
 }
 .complete-btn {
-  background: rgb(11, 212, 162);
+  background: rgb(18, 219, 169);
 }
 .todo-item {
   padding: 0rem 0.5rem;
@@ -170,4 +170,8 @@ a img{
   margin: 0 5px;
   width: 60px;
   opacity: 0.4;
+}
+.contact{
+  position: absolute;
+  top: 204px;
 }
