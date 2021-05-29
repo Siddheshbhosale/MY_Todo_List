@@ -175,3 +175,18 @@ a img{
   position: absolute;
   top: 204px;
 }
+
+@media only screen and (max-width: 700px) {
+  form {
+     flex-direction: column;
+  }
+  .first, .todo-input{
+    width: 380px;
+  }
+} 
+
+@media only screen and (max-width: 500px) {
+  .first, .todo-input{
+    width: 360px;
+  }
+} 
