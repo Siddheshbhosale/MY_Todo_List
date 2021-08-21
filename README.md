@@ -14,7 +14,7 @@ This web application will help you to save your daily tasks in order not to miss
 * local storage
 
 
-<a href="https://have-fun-with-triangle.netlify.app/" target="_blank">Hosted here</a>
+<a href="https://my-todo-list-webpage.netlify.app/" target="_blank">Hosted here</a>
 
 ## Technology Stack Used
 
